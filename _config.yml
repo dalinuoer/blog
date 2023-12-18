@@ -16,7 +16,6 @@
 locale : "zh-CN"
 title : "Dalinuoer's Blog"
 email : "530658481@qq.com"
-description: "好物大都不坚牢，彩云易碎琉璃脆。"
 twitter_username: dalinuoer_
 github_username: dalinuoer
 minimal_mistakes_skin: default
@@ -58,7 +57,7 @@ plugins:
 author:
   name   : "Dalinuoer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "好看的皮囊千篇一律，有趣的灵魂一百来斤。"
+  bio    : "有趣的灵魂"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -77,13 +76,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/dalinuoer_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/da"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/dalinuoer"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -111,7 +110,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
 
 comments:
   provider : "utterances"
